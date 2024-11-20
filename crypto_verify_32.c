@@ -1,3 +1,5 @@
+// Derived from supercop-20220213/crypto_verify/32/ref/verify.c and is subject to the same license as that file
+
 #include "./crypto_verify_32.h"
 
 int crypto_verify_32(const unsigned char *x,const unsigned char *y)
